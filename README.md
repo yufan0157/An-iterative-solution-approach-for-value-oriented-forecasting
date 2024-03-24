@@ -1,1 +1,2 @@
-# An-iterative-solution-approach-for-value-oriented-forecasting
+This repo is for paper "Toward Value-oriented Renewable Energy Forecasting: An Iterative Learning Approach".
+
